@@ -28,7 +28,8 @@
               "src/styles.css",
               "/Users/mandar/Documents/angular/todo_list/node_modules/bootstrap/dist/css/bootstrap.min.css"
             ],
-            "scripts": ["/Users/mandar/Documents/angular/todo_list/node_modules/bootstrap/dist/js/bootstrap.js"]
+            "scripts": ["/Users/mandar/Documents/angular/todo_list/node_modules/jquery/dist/jquery.js"
+              ,"/Users/mandar/Documents/angular/todo_list/node_modules/bootstrap/dist/js/bootstrap.js"]
           },
           "configurations": {
             "production": {
